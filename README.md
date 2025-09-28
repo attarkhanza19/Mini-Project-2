@@ -15,7 +15,7 @@ Prodi: Sistem Informasi A
 
 <img width="437" height="170" alt="image" src="https://github.com/user-attachments/assets/5ba3c90e-599b-46d3-ba1c-c44003bbaa30" />
 
-Saat run programnya akan tampil seperti ini, akan ada 2 role yaitu Admin dan User
+Saat run programnya akan tampil seperti ini, akan ada 2 role yaitu Admin dan User.
 
 
 <img width="400" height="226" alt="image" src="https://github.com/user-attachments/assets/ace00c47-86e4-4078-829e-e9d01eca8851" />
